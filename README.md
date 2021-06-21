@@ -8,3 +8,4 @@ Exemplos de como utilizar as ferramentas do flutter para entrada de dados
 - Checkbox
 - RadioButton
 - Switch
+- Slider
