@@ -1,6 +1,6 @@
 # Projeto Entrada de Dados
 
-Exemplos de como utilizar as ferramentas do fluuter para entrada de dados
+Exemplos de como utilizar as ferramentas do flutter para entrada de dados
 
 ## Modelos
 
